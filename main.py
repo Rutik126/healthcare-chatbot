@@ -77,4 +77,4 @@ st.sidebar.markdown('<div class="sidebar-text">This app allows you to ask questi
 
 # Add a footer
 st.markdown("---")
-st.markdown("Made with ❤️ using Streamlit")
+st.markdown("Made By Rutik Kumbhar")
