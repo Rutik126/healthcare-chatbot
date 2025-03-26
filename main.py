@@ -37,7 +37,7 @@ def get_groq_response(question):
 st.title("Healthcare Chatbot")
 
 # Display an image placeholder
-st.image("healthcare.jpg", width=700, caption="Healthcare Chatbot")
+st.image("healthcare.jpg", width=500, caption="Healthcare Chatbot")
 
 # Adjust CSS for padding and text wrapping
 st.markdown("""
